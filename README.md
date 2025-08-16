@@ -88,7 +88,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{shivabillana}/count.svg" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=shivabillana" alt="Profile views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
